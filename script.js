@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', function() {
             alert('Incorrect password');
         } else {
             // If both username and password are correct
-            window.location.href = "index.html";
+            window.location.href = "dashboard.html";
         }
     });
     
